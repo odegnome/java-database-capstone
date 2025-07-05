@@ -50,6 +50,10 @@ button, .close {
     justify-content: center;
 }
 
+.modal {
+    display: none;
+}
+
 button:hover, .close:hover {
     background-color: #A62B1F;
 }
